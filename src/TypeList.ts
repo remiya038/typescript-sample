@@ -29,4 +29,4 @@ let und:undefined = undefined;
 
 //object
 let obj:object = {};
-let obj:{id:number,name:string} = {id:0,name:"NAMAE"};
+let obj2:{id:number,name:string} = {id:0,name:"NAMAE"};
